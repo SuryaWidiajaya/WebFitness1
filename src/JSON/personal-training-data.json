@@ -1,0 +1,46 @@
+[
+  {
+    "trainer_id": 1,
+    "trainer_name": "John Smith",
+    "specialty": "Strength Training",
+    "experience_years": 5,
+    "training_sessions": [
+      {
+        "session_id": 1,
+        "session_name": "Full Body Strength",
+        "description": "Customized full-body strength training session tailored to your fitness goals.",
+        "duration_minutes": 60,
+        "price": 75
+      },
+      {
+        "session_id": 2,
+        "session_name": "Functional Training",
+        "description": "Functional training to improve your everyday movements and overall fitness.",
+        "duration_minutes": 45,
+        "price": 60
+      }
+    ]
+  },
+  {
+    "trainer_id": 2,
+    "trainer_name": "Emily Davis",
+    "specialty": "Weight Loss",
+    "experience_years": 7,
+    "training_sessions": [
+      {
+        "session_id": 3,
+        "session_name": "High-Intensity Cardio",
+        "description": "Intense cardio workouts designed for effective weight loss.",
+        "duration_minutes": 45,
+        "price": 70
+      },
+      {
+        "session_id": 4,
+        "session_name": "Nutrition Consultation",
+        "description": "Personalized nutrition consultation and guidance for sustainable weight loss.",
+        "duration_minutes": 60,
+        "price": 80
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "class_id": 1,
+    "class_name": "Yoga",
+    "instructor": "Lisa Smith",
+    "description": "Join our relaxing Yoga class to improve flexibility, balance, and inner peace. Suitable for all fitness levels.",
+    "schedule": {
+      "day": "Mondays",
+      "time": "6:00 PM - 7:00 PM"
+    }
+  },
+  {
+    "class_id": 2,
+    "class_name": "High-Intensity Interval Training (HIIT)",
+    "instructor": "Mike Johnson",
+    "description": "Get your heart racing with our HIIT class! Burn calories and build strength with intense, short bursts of exercise.",
+    "schedule": {
+      "day": "Wednesdays",
+      "time": "5:30 PM - 6:30 PM"
+    }
+  }
+]

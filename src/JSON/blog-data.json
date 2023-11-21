@@ -1,0 +1,29 @@
+[
+  {
+    "post_id": 1,
+    "title": "Discover the Benefits of Group Fitness Classes",
+    "author": "John Doe",
+    "date_published": "2023-09-25",
+    "content": "In our latest blog post, we explore the numerous benefits of participating in group fitness classes at our fitness center. From increased motivation to the opportunity to make new friends, discover why group fitness is the perfect way to achieve your fitness goals. Our experienced instructors are dedicated to helping you reach your full potential and create a fun, supportive environment for your fitness journey.",
+    "link": "/About/1" ,
+    "imgUrl": "https://i.ibb.co/HDy3Xg1/john.png"
+  },
+  {
+    "post_id": 2,
+    "title": "Meet Our Personal Trainers: Your Fitness Journey Guides",
+    "author": "Jane Smith",
+    "date_published": "2023-09-28",
+    "content": "Get to know our talented personal trainers who are dedicated to helping you achieve your fitness goals. Learn about their specialties, experience, and training approaches. Whether you're looking to build strength, lose weight, or improve overall fitness, we have the right trainer for you. Our trainers are not just experts in their field; they are also passionate about helping you become the best version of yourself.",
+    "link": "/About/2" ,
+    "imgUrl": "https://i.ibb.co/h8mNzxY/jane.png"
+  },
+  {
+    "post_id": 3,
+    "title": "Yoga: The Path to Mind-Body Harmony",
+    "author": "Emily Davis",
+    "date_published": "2023-10-02",
+    "content": "In this blog post, we dive deep into the world of Yoga and its incredible benefits. Discover how Yoga can improve your physical health, reduce stress, and enhance your overall well-being. Join us for our 'Yoga for Beginners' session to experience the transformative power of Yoga. You'll not only build flexibility and strength but also find inner peace and balance in your life. Don't miss out on this opportunity to take care of your mind, body, and soul.",
+    "link": "/About/3" ,
+    "imgUrl": "https://i.ibb.co/P5BCfvQ/emily.png"
+  }
+]

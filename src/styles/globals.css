@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-color: #000;
+}
+
+
+
+
+.bg-home {
+    background-image: url("../Img/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
